@@ -1,6 +1,6 @@
 # Hola, soy Alejandro
  
-Estudiante de **Grado Superior en Desarrollo de Aplicaciones (2º año)**, con ganas de seguir aprendiendo y creciendo como programador.
+Estudiante de **Grado Superior en Desarrollo de Aplicaciones (2º año)**
  
 ## 🛠️ Tecnologías y herramientas
  
